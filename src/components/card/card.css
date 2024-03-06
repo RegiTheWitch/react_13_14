@@ -1,0 +1,27 @@
+
+.card_once{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    justify-content: center;
+    gap: 15px;
+}
+
+.catalog_img{
+    width: 300px;
+}
+.catalog_btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btns{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.card_link{
+    color:blueviolet;
+    
+}
+

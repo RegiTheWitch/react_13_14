@@ -1,0 +1,25 @@
+
+.accordion_item{
+    padding: 25px 0 0 400px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+}
+.accordion_title{
+    display: flex;
+    max-width: 600px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px
+}
+.accordion_content{
+    padding: 10px;
+    max-width: 600px;
+}
+.title{
+    color: black;
+    font-size: 24px;
+}
+.accordion_banner h2{
+    text-align: center;
+}

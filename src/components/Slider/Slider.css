@@ -1,0 +1,20 @@
+.img_sl{
+    width:400px;
+}
+.slider_place{
+    margin-bottom: 100px;
+    max-width: 420px;
+}
+
+.slick-next:before, .slick-prev::before {
+    color: black;
+}
+
+.slider_content{
+    max-width: 1300px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    padding:100px 0px;
+}

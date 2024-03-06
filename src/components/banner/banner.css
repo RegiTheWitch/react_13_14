@@ -1,0 +1,31 @@
+.banner {
+    background-image: url(../banner/banner_img/banner.png);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.title{
+    font-size: 32px;
+    color: white;
+}
+.banner-btn{
+    color: white;
+    padding: 15px 30px;
+    background-color: #735184;
+    border-radius: 10px ;
+}
+.banner-content{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+.accordion_banner{
+    padding-bottom: 100px;
+}

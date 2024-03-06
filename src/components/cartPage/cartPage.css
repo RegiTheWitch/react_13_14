@@ -1,0 +1,37 @@
+.element{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    justify-content: center;
+    gap: 15px;
+}
+.catalog-btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-form{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.catalog-blog{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 40px;
+    padding-top: 40px;
+}
+.catalog-content{
+    padding: 100px  0;
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.catalog-inform{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
